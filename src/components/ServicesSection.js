@@ -72,7 +72,7 @@ flex-basis:20rem;
     align-items:center;
     h3{
         margin-left:1rem;
-        backgroound:white;
+        background:white;
         color:black;
         padding:1rem;
     }
